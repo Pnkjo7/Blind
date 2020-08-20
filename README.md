@@ -1,0 +1,8 @@
+# vision
+
+NO changes allowed.
+This is the problem statement of our project which we will refer to everytime we create something regarding srs or any problem.
+
+Our android application will start with user one time login. user will login using java speech to text library. Once user have logged in to the app, personal data like phone no and password will be stored at firebase. we are collecting phone number because we can automatically validate it rather asking user to do so. through accessing one time password. Once user have logged in he will always be logged in. after that a screen will appear asking user to touch anywhere to enter the application. after that main working of application start. first android activity will appear with the image. as soon as activity appear it gathers text of image from firebase where image to text conversion has been taken place as soon as iage is uploaded by us. we are uploading the image because we do not have real time user. as soon as we get text from firebase we will use java;s text to speech library to accomplish the task of speaking up the images. There will be a seperate activity created fro every picture or else it still needs to be find out.
+
+we have to clearly understand that time and date of work done is very important. So you all will be managing your own text file in which you will keep the update as what you have done when so that no one in whole college can question you. You should have a oproper proof for every workdone. and you should explain the work you have done too. so that every member knows thec changes you have made to project and impact of those changes on project.
